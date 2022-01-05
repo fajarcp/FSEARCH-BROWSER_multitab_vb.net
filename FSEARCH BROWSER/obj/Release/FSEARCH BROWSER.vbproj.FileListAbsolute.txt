@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\bin\Release\FSEARCH BROWSER.exe.manifest
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\bin\Release\FSEARCH BROWSER.application
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\bin\Release\FSEARCH BROWSER.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\bin\Release\FSEARCH BROWSER.pdb
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\bin\Release\FSEARCH BROWSER.xml
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\obj\Release\ResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\obj\Release\FSEARCH_BROWSER.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\obj\Release\FSEARCH_BROWSER.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\obj\Release\FSEARCH_BROWSER.MDIParent1.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\obj\Release\FSEARCH_BROWSER.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\obj\Release\FSEARCH BROWSER.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\obj\Release\FSEARCH BROWSER.exe.manifest
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\obj\Release\FSEARCH BROWSER.application
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\obj\Release\FSEARCH BROWSER.exe
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\obj\Release\FSEARCH BROWSER.xml
+C:\Users\USER\Documents\Visual Studio 2008\Projects\FSEARCH BROWSER\FSEARCH BROWSER\obj\Release\FSEARCH BROWSER.pdb

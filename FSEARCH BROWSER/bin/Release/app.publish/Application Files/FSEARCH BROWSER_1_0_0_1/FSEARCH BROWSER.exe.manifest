@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="1.0.0.1" name="FSEARCH BROWSER.exe" publicKeyToken="9a1b1e199089f95e" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Resources\1jojvvcomkx9wyrexe4hgff7ypxzmq3jklp2kgpp2vspfe4i1z8xbzwtqhqa_2EE_icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="FSEARCH BROWSER" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="FSEARCH BROWSER.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FSEARCH BROWSER.exe" size="105984">
+      <assemblyIdentity name="FSEARCH BROWSER" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Z3zCY2/AGkYGlby+ThjVG6kJG70=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Resources\1jojvvcomkx9wyrexe4hgff7ypxzmq3jklp2kgpp2vspfe4i1z8xbzwtqhqa_2EE_icon.ico" size="4286">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>aJOMvghlnAGSdOhyGqXzXG/rnwk=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-UD972IH\USER" issuerKeyHash="45b035ab22211cb24b68efb2d04fd38d4aafe568" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Rcr7Wpr7iR6VTPt6pWFbE4iy9DM=</DigestValue></Reference></SignedInfo><SignatureValue>sIvDY6/56jeHRya1FrHn8ixMtqn7ssyLs/nDTJW1YUFzilK3x3bTALxmJwd/r7WqIE8mPlXSG1t0/Tsi7oHHf4fX4tDPlNzrgJJc7hmVjEakaYA8ZtNv1doIyekbsCGJlHnpR3Sg0E6U++HPmP+ZTz4+reegsgl7iUfp5wVcWfI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>6hq7eVITVEdmi4wVJewA83YsfCd+iTV55x0IwIhns5KtnOOJ9IREinmyVBXqgeujWbm/uwbl8OlItZHV/375GnTk1bKnSe2P5qWbOlqHgc/R3A33a+4i1ysTFAvfFE1jnZ7zhZ2dPgY5YDpEVGRIQn8HRKd7ifb/8z9Hg5/RL80=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="33f4b288135b61a57afb4c951e89fb9a5afbca45" Description="" Url=""><as:assemblyIdentity version="1.0.0.1" name="FSEARCH BROWSER.exe" publicKeyToken="9a1b1e199089f95e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-UD972IH\USER</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>R2DU+zq2x5L+L5eRLsNU1eSC0nE=</DigestValue></Reference></SignedInfo><SignatureValue>XfeDgQLEvKS8HYaLucFqqqQCJ9FRg3kjVZHzfZPx1Z5yVKJ0payj1KFtxczpOYRwPfzyyQ/3Lm/ihJvRH8Mq73hDov1cXff3lZ1hl4rCx/3Plw0MaSx7RKpZll/fK2+ixr1mSv687thBT90FlvajoZHs8mF8mhyFqTRB/ctTt9c=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>6hq7eVITVEdmi4wVJewA83YsfCd+iTV55x0IwIhns5KtnOOJ9IREinmyVBXqgeujWbm/uwbl8OlItZHV/375GnTk1bKnSe2P5qWbOlqHgc/R3A33a+4i1ysTFAvfFE1jnZ7zhZ2dPgY5YDpEVGRIQn8HRKd7ifb/8z9Hg5/RL80=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVKgAwIBAgIQGPSpMCCjLYlPgGZKLhff+zANBgkqhkiG9w0BAQUFADAzMTEwLwYDVQQDHigARABFAFMASwBUAE8AUAAtAFUARAA5ADcAMgBJAEgAXABVAFMARQBSMB4XDTE5MTAwNTA0NTMwNVoXDTIwMTAwNDEwNTMwNVowMzExMC8GA1UEAx4oAEQARQBTAEsAVABPAFAALQBVAEQAOQA3ADIASQBIAFwAVQBTAEUAUjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA6hq7eVITVEdmi4wVJewA83YsfCd+iTV55x0IwIhns5KtnOOJ9IREinmyVBXqgeujWbm/uwbl8OlItZHV/375GnTk1bKnSe2P5qWbOlqHgc/R3A33a+4i1ysTFAvfFE1jnZ7zhZ2dPgY5YDpEVGRIQn8HRKd7ifb/8z9Hg5/RL80CAwEAATANBgkqhkiG9w0BAQUFAAOBgQCIoC3ia6QHoxxHROiHQ0meIx6c1Vdtg7h78acHS/RR/GV2LB4dpBroigHW18QWKiOEbvN4zzXusxzzSGV8EJB2juvwp3OtAkKpyB3yDGNrYSKjXe+zSlas2ryBcsJFyba+MgIT8SWmIEQkmXTvPeh6vcezmCsIE24JoGEtSGrDrQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
